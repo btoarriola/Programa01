@@ -5,7 +5,7 @@
 //Token
 //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      h
 
-package com.christian.project01;
+package com.uv.project01;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
